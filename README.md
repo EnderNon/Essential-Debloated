@@ -1,13 +1,12 @@
-# Essential
+# Essential-Debloated
 
-Essential is a quality of life mod that boosts Minecraft Java Edition to the next level!
+Essential is a piece of shit mod that drags Minecraft Java Edition to the lowest level!
 
-The source code of the Essential Mod is accessible to everyone, demonstrating our commitment to transparency with our
-users and the broader community.
+This fork is a less shit mod that doesn't drag Minecraft Java Edition as far!
 
-For assistance with this repository or the mod, please utilize the dedicated channels available in our [Discord](https://essential.gg/discord).
+The source code of this Fork is accessible to everyone, demonstrating that Essential can go fuck themselves.
 
-Discover more about Essential on our [Website](https://essential.gg) or visit the [Essential Wiki](https://essential.gg/wiki).
+For assistance with this repository or the mod, figure it out yourself. If necessary, make a fork and use Github Actions to build it.
 
 ## Building
 
